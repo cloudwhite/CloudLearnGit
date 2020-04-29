@@ -48,7 +48,7 @@ or
 ```
 git add -all
 ```
-* see alse [git add](https://git-scm.com/docs/git-add)
+* see also [git add](https://git-scm.com/docs/git-add)
 
 ### Write something to tell the other you edit what
 ```
